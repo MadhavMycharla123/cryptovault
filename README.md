@@ -1,4 +1,4 @@
-# CryptoVault
+# Crypto Graphy
 
 One platform. Every cryptography tool.
 
